@@ -1,6 +1,6 @@
 <p align="center">
   <img width="800" src="img/banner.png">
-  <h4 align="center">  🤖 Full Stack Developer &nbsp; | &nbsp; 🎨 Graphic Designer &nbsp; | &nbsp; 📌Trento, IT</h4>
+  <h4 align="center">  🤖 Full Stack Web Developer &nbsp; | &nbsp; 🎨 Graphic Designer &nbsp; | &nbsp; 📌Trento, IT</h4>
 </p>
 
 <br/>
@@ -33,4 +33,12 @@
 | Web Developer | Graphic Design | Languages |
 | :----: | :----: | :----: |
 | <img src="img/skills/dev/html.png" alt="html" width="50" /> <img src="img/skills/dev/css.png" alt="css" width="50" /><img src="img/skills/dev/javascript.png" alt="javascript" width="50" /> <img src="img/skills/dev/php.png" alt="php" width="50" /> <img src="img/skills/dev/bootstrap.png" alt="bootstrap" width="50" /> <br/><img src="img/skills/dev/sass.png" alt="sass" width="50" />  <img src="img/skills/dev/vue.png" alt="vue" width="50" />  <img src="img/skills/dev/laravel.png" alt="laravel" width="50" /> <img src="img/skills/dev/mysql.png" alt="mysql" width="50" /> <img src="img/skills/dev/node.js.png" alt="node.js" width="50" />  | <img src="img/skills/graphic/ai.png" alt="illustrator" width="50" /> <img src="img/skills/graphic/id.png" alt="indesign" width="50" /> <img src="img/skills/graphic/ps.png" alt="photoshop" width="50" /> <br/> <img src="img/skills/graphic/figma.png" alt="figma" width="50" /> <img src="img/skills/graphic/fontlab.png" alt="fontlab" width="50"/> | <img src="img/languages/italian.svg" alt="italian" width="40" height="40"/> <img src="img/languages/english.svg" alt="english" width="40" height="40"/> <br/> <img src="img/languages/spanish.svg" alt="spanish" width="40" height="40"/> <img src="img/languages/portuguese.svg" alt="portuguese" width="40" height="40"/> |
+
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sder12&show_icons=true&locale=en&layout=compact" alt="sder12" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sder12&show_icons=true&locale=en" alt="sder12" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sder12&" alt="sder12" /></p>
 -->
